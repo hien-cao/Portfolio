@@ -99,7 +99,7 @@ p {
 
 #profile .hr {
 	width: 5rem;
-	border-bottom: 1px #000000 solid;
+	border-bottom: 1px #000 solid;
 }
 .profile-left {
 	font-family: Roboto, sans-serif;
@@ -144,7 +144,7 @@ p {
 }
 
 #contact a{
-	color: #000000;
+	color: #000;
 }
 
 .contact-content-left {
@@ -175,7 +175,7 @@ p {
 	z-index: 90;
 	display: none;
 	text-decoration: none;
-	color: #0E1729;
+	color: #0e1729;
 }
 
 .back-to-top i {
@@ -183,7 +183,7 @@ p {
 	left: 17px;
 	top: 14px;
 	font-size: 19px;
-	color: #ffffff;
+	color: #fff;
 	-webkit-transition: 200ms;
 	-moz-transition: 200ms;
 	-o-transition: 200ms;
@@ -192,7 +192,7 @@ p {
 
 .back-to-top:hover {
     background: rgba(28, 59, 109, 0.9);
-    color: #ffffff;
+    color: #fff;
 }
 
 .back-to-top:hover i {
@@ -200,7 +200,7 @@ p {
 }
 
 .back-to-top:focus {
-    color: #FFFFFF;
+    color: #fff;
 }
 
 
